@@ -9,7 +9,9 @@ body {
 header {
     background: #d8b395;
     padding: 20px 0;
+    
 }
+
 
 .caixa {
     position: relative;
@@ -52,7 +54,7 @@ nav a:hover {
     text-align: center;
     width: 30%;
     vertical-align: top; 
-    margin: 0 1.5%;
+    margin: 0 1.2%;
     padding: 30px 20px;
     box-sizing: border-box;
      
@@ -66,6 +68,7 @@ nav a:hover {
     border: 0.4px solid #FEFEFE;
     border-width: 3px;
     border-color: #2F2325;
+    
        
 }
 
@@ -86,10 +89,11 @@ nav a:hover {
 }
 
 .pratos h2 {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     color: #e03c52;
     position: relative;
+    font-family: 'Satisfy', cursive;
 
     
 }
@@ -201,17 +205,17 @@ td, th {
 
 .titulo-principal {
     text-align: center;
-    font-size: 2em;
-    margin: 0 0 1em;
+    font-size: 4em;
+    margin: 0 0 0.5em;
     clear: left;
     color:#e9253f;
+    font-family: 'Satisfy', cursive;
 }
 
 .principal {
     padding: 3em 0; 
     width: 940px;
     margin: 10px auto;
-    
     text-align: center;
 }
 
@@ -232,6 +236,7 @@ td, th {
     width: 180px;
     float: left;
     margin: 0 20px 20px 10px;
+    border-radius: 5px;
 }
 
 strong {
@@ -256,9 +261,9 @@ strong {
 
 .beneficios {
     padding: 3em 0;
-    border-top: 0.4px solid #FEFEFE;
-    border-bottom: 0.4px solid #FEFEFE;
-    margin-bottom:10px;   
+    border: 0.4px solid #FEFEFE;
+    margin:10px; 
+    border-radius: 5px;  
     
 }
 
